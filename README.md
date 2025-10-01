@@ -1,6 +1,6 @@
 # general-projects
 
-List of websites I've built for clients or maintain
+List of websites I've built for clients or maintain.
 - [labellebf.com](https://labellebf.com/)
   A website for a relative and their busniess for bridal and formal wear.
 

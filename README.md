@@ -17,5 +17,6 @@ List of websites I've built for clients or maintain.
   This is a community organization in which I'm involved. Main developer in building this one through wix.com.
   Have currently built up a team that maintains it periodically.
 
-- Current work: [bushelfarm.com](https://bushelfarm.com/)
+List of webitesites/apps with companies I've worked for
+- [bushelfarm.com](https://bushelfarm.com/)
   Fullstack developer on this one.

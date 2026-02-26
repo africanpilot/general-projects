@@ -1,10 +1,6 @@
 # general-projects
 
 List of websites I've built for clients or maintain.
-- [labellebf.com](https://labellebf.com/)
-  A website for a busniess that runs a bridal and formal wear store.
-  This is part of a monorepo and deployed through AWS. You can find an example on the [movie-fav repo](https://github.com/africanpilot/movie-fav). 
-
 - [sumexus.com](https://sumexus.com/)
   A website for a busniess that runs a Non Medical Emergencey Transport company.
   This is part of a monorepo and deployed through AWS. You can find an example on the [movie-fav repo](https://github.com/africanpilot/movie-fav). 
